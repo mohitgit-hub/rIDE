@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "manager",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"crowdFunding.sol": "crowdFunding"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"crowdFunding.sol": {
+			"keccak256": "0x85c79d105492bb7a9c276cdd7145d6c5cbfb6ba480a8e46629c2b3f8a86cc991",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://46fe006d055ece8648cc4f3c66923889f66ec4b7ec01f7daf5169eb4c1217bad",
+				"dweb:/ipfs/QmcjBXrzA7gu6s3sgoerfZpQ9xFXxbuaU2jAGwH9GeRHdB"
+			]
+		}
+	},
+	"version": 1
+}

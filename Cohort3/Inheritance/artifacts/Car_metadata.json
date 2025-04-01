@@ -1,0 +1,96 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_brand",
+						"type": "string"
+					},
+					{
+						"internalType": "uint8",
+						"name": "_wheels",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "brand",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "description",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Cohort3/Inheritance/truck.sol": "Car"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Cohort3/Inheritance/Vehicle.sol": {
+			"keccak256": "0x7d9c48ffb40a94ea5d4c96a1dc4010f71f9b70f6e781c6c38bb0a71e8b481871",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://da8ee36aa9f66192af13089f78f4cf30ec2dab5f8729537681d0958ca325d6ef",
+				"dweb:/ipfs/QmZw1MJQHjmmthteYWnHJhcxTbdLDSNzPXKEBtB8K851z2"
+			]
+		},
+		"Cohort3/Inheritance/truck.sol": {
+			"keccak256": "0x9568af65b2d9c6e56d57b56c920752a5104ff48c3e4442dc286d35a48baae835",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8a88c797587d7c1c255779923571331a6dd25858f430ce7b04f8abf577f6ac21",
+				"dweb:/ipfs/QmT5od1KfCHRyNGhSSsY52PTMgXcz3g9jjjacneQMCzjqu"
+			]
+		}
+	},
+	"version": 1
+}

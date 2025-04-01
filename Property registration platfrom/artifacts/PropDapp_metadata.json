@@ -1,0 +1,74 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_ownerName",
+						"type": "string"
+					},
+					{
+						"internalType": "address",
+						"name": "_ownerAddress",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "_propLocation",
+						"type": "string"
+					}
+				],
+				"name": "registerProperty",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Property registration platfrom/propDapp.sol": "PropDapp"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Property registration platfrom/propDapp.sol": {
+			"keccak256": "0x664cdd69e3c34a7bbc9da11fb897ca60b6a30431577d68d1e1834d3e65f7b523",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://de9b27bdedb2af06478b661ee59747cf9b64888f4445ccc82bbd28f1a50a028a",
+				"dweb:/ipfs/QmUo475TKVZ3GgNgpunraKcM4cH5GGP784EjFoGaT6YvGG"
+			]
+		}
+	},
+	"version": 1
+}

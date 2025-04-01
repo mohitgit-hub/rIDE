@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Cohort 3/Inheritance/truck.sol": "Truck"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Cohort 3/Inheritance/truck.sol": {
+			"keccak256": "0xe4729c8fe1f597075cde05ff04e212a119bf0db9691f619f96a5379517bdb052",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://421841fa25feb12d4200ba0b8963e95b56e0ab8bf7702a72bd186cc8912f54e5",
+				"dweb:/ipfs/QmNR2pBc62J7hRBPFpL3EKTwMGo449RKW96g3UxJHKw9vE"
+			]
+		}
+	},
+	"version": 1
+}
